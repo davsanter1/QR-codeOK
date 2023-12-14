@@ -24,9 +24,9 @@ body{
 
 .container{
     background-color: var(--White);
-    padding: 1em;
+    padding: .9em;
     border-radius: 15px;
-    width: 18em;
+    width: 18.5em;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -38,12 +38,12 @@ body{
 }
 
 h3{
-    margin: 1em;
+    margin: .9em;
     color: var(--Darkblue);
 } 
 
 p{
-    margin: 1em;
+    margin: .9em;
     font-size: 15px;
     color: var(--Grayishblue);
 }
